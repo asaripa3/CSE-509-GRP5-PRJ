@@ -2,7 +2,9 @@
 
 
 # Zero-Shot Text-to-Video Generation: Leveraging Efficient Text-to-Image Synthesis for Dynamic and Context-Preserving Video Synthesis
+Code Link: https://drive.google.com/drive/folders/1a5vVCMe-gUUVq4O-ao82D7mUhZJnX7T-?usp=drive_link
 
+# module.py requires helper files in running the code for ouputs. To generate outputs, please download the file on Google Drive
 
 ## Setup
 
